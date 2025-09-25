@@ -1,13 +1,14 @@
 <?php include "../../includes/header.php"; ?>
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Becas Universitarias | Impulsa tu camino</title>
-    <link rel="stylesheet" href="INTEGRADORA-UTPN/UTPN/assets/css/becas.css">
-    <link rel="stylesheet" href="UTPN/assets/css/header.css">
-    <link rel="stylesheet" href="UTPN/assets/css/footer.css">
+    <link rel="stylesheet" href= "/INTEGRADORA-UTPN/assets/css/becas.css">
+    <link rel="stylesheet" href="/INTEGRADORA-UTPN/assets/css/header.css">
+    <link rel="stylesheet" href="/INTEGRADORA-UTPN/assets/css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -101,14 +102,7 @@
   </div>
 
   <!-- FOOTER -->
-  <footer class="footer">
-    <div class="container footer__inner">
-      <div class="brand brand--footer">
-        <span class="brand__dot"></span> UT<span class="brand__accent">PN</span>
-      </div>
-      <p class="muted small">© 2025 utpn. Hecho con pasión para estudiantes.</p>
-    </div>
-  </footer>
+
 
   <!-- CHATBOT JS -->
   <script>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Superadmin Dashboard</title>
-  <link rel="stylesheet" href="/UTPN/assets/css/superadmin.css">
+  <link rel="stylesheet" href="/INTEGRADORA-UTPN/assets/css/superadmin.css">
 </head>
 <body>
   <div class="sidebar">

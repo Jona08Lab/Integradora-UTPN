@@ -10,13 +10,13 @@ if (session_status() === PHP_SESSION_NONE) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>header</title>
-    <link rel="stylesheet" href="/UTPN/assets/css/navbar.css">
+    <link rel="stylesheet" href="/INTEGRADORA-UTPN/assets/css/navbar.css">
 </head>
 <body>
 <header>
     <nav class="navbar">
         <div class="navbar-logo">
-            <a href="/UTPN/index.php"><img src="/UTPN/assets/img/Logo.png" alt="Logo UTPN"></a>
+            <a href="/UTPN/index.php"><img src="/INTEGRADORA-UTPN/assets/img/Logo.png" alt="Logo UTPN"></a>
         </div>
         <div class="navbar-title">
             <h1>Bienvenidos a la UTPN</h1>
