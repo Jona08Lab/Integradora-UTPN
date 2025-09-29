@@ -16,14 +16,7 @@
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 </head>
 <body>
-      <!--
-      <nav class="nav__links">
-        !--<a href="#becas">Becas</a>
-        <a href="chatbot.html">Asesorías</a>
-        <a href="#recursos">Recursos</a>
-        <a class="btn small" href="#aplica">Aplicar ahora</a>
-      </nav> -->
-    </div>
+    
   </header>
 
   <!-- HERO -->
